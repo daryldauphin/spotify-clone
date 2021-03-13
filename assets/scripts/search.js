@@ -47,10 +47,7 @@ const browseAllItems = [
       bgColor: "rgb(160, 195, 210)",
       href: "/chill",
     },
-    {
-      title: "Flamenco",
-      href: "/flamenco",
-    },
+ 
     {
       title: "Workout",
       imgSrc: "https://t.scdn.co/images/0093f59664854b619e34a51d39d35a2f.jpeg",
@@ -62,10 +59,6 @@ const browseAllItems = [
       imgSrc: "https://i.scdn.co/image/4f26db8239305bef29ef956b331b31407cbf51f9",
       bgColor: "rgb(160, 195, 210)",
       href: "/higher-ground",
-    },
-    {
-      title: "dance",
-      href: "/dance-ground",
     },
   ];
   
